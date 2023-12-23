@@ -1,0 +1,27 @@
+.main{
+    background-color: black;
+}
+
+.w{
+    color: white;
+}
+
+.para{
+    font-size: 15px;
+}
+.profilecontent{
+    text-align: justify;
+}
+
+.high-light{
+    color: rgb(250, 167, 214);
+}
+
+.head{
+    color: rgb(228, 160, 254);
+}
+
+.img{
+    border: 10px white double;
+    padding: 10px;
+}
